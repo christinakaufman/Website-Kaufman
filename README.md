@@ -8,7 +8,7 @@ This website is used for branding purposes and to showcase my resume and awards!
 
 Main Elements:
 * Index
- * Made HTML code for home page!
+  * Main HTML code for Home Page       
 * CSS
   * Code for page formats (Coloring, fonts, etc.)            
 
