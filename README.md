@@ -8,7 +8,7 @@ Main Elements:
 * Index
   * Main HTML code for Home Page       
 * CSS
-  * Code for page formats (Coloring, fonts, etc.)            
+  * Code for page formats (coloring, fonts, images, etc.)            
 
 ## Contributing
 
